@@ -1,0 +1,25 @@
+Cloude Promting
+----------------
+to writin promt we ave to maintaine on structure
+ROLE--> iam devops enineer
+CONTEXT--> iam beginer to devops,my os is linux
+TASK---->write backup script
+CONSTRAINTS--->do not delete any thin to keep it short
+FORMAT---show the script and explain eachh line
+=========================================================================
+to maintain better
+-------------------
+bad->Clean up my computer
+-> if you use these promt it will delete some used files it you done
+these thing production may you loss imp files to retrive that problem
+we have to ive correct prom
+
+GOOD->
+Show me 10 biggest files in current folder,list out them,
+dont delete or change any thing..explain command in simple words
+
+NOTE: dont delete or change any thing(me ave to metion these thins every time)
+=============================================================================================
+Best way to give promt between XML tags
+<task> information</task>
+======================================================================================================================================================================
