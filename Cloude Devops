@@ -35,3 +35,9 @@ cloude code is different(pro sub is must)
 claude chat is differrnt
 cloude cowork is different(like for chat mode you take pro version is co work)
 =============================================================================
+to install git -> git bash cli(to add,commit)
+to github->gt utility(to create repo)
+==================================================
+to connect git ub to cloude
+->cloude->connectors->tool(git conector)->give autentication
+->code model->it will show repos->select repo and work on it
